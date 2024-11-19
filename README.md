@@ -18,8 +18,16 @@ This project aims to create a secure and decentralized system for generating and
 - **Frontend Development:** HTML, CSS, JavaScript
 - **Storage:** IPFS (InterPlanetary File System)
 
-- Working Diagram
+ ##Working Diagram
 - ![image](https://github.com/user-attachments/assets/85ff5f1f-336c-487e-a333-400832121aad)
+##Flow chart
+  ##Generating new certificates
+  ![image](https://github.com/user-attachments/assets/ed56c76e-4e1e-4c99-8255-d9a985dd01de)
+
+  ##Checking the authenticity
+  ![image](https://github.com/user-attachments/assets/5cf9a1ca-6338-4712-aee4-0ea3cbfa52fe)
+
+
 
 
 ## Installation
