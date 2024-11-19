@@ -18,6 +18,10 @@ This project aims to create a secure and decentralized system for generating and
 - **Frontend Development:** HTML, CSS, JavaScript
 - **Storage:** IPFS (InterPlanetary File System)
 
+- Working Diagram
+- ![image](https://github.com/user-attachments/assets/85ff5f1f-336c-487e-a333-400832121aad)
+
+
 ## Installation
 1. Clone the repository:
    ```bash
