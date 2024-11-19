@@ -15,7 +15,7 @@ This project aims to create a secure and decentralized system for generating and
 ## Technologies Used
 - **Blockchain Platform:** Ethereum (or any other platform used)
 - **Smart Contracts:** Solidity
-- **Frontend Development:** HTML, CSS, JavaScript
+- **Frontend Development:** Python streamlit
 - **Storage:** IPFS (InterPlanetary File System)
 
  ## Working Diagram
